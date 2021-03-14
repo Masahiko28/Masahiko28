@@ -1,12 +1,12 @@
 {
-  "name": "previa",
+  "name": "claus",
   "version": "0.0.1",
-  "description": "Previa Bot By Meshy Developing </>",
+  "description": "Claus Bot By Masahiko Developing </>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "${burak}#0001",
+  "author": "'burak#9013",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
